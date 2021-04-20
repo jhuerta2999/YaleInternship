@@ -1,0 +1,21 @@
+Carto ID			Geom			Link			Originator			fid			URL			Title			SubTitle			Location			Detail			Lat			Long			Air Date			audio			Country			State			City			County			Street			Zip			Script ID			File Id			
+null	null	null	null	 Hopman	null	Helping people could endangered species	null	null	null	null	null	Mon. July 15, 2019	null	null	null	null	null	null	null	 2019216 	null	
+null	null	null	null	 Kennedy	null	Christian author sees climate change as a moral issue	null	null	null	null	null	Tue. July 16, 2019	null	null	null	null	null	null	null	 2019199 	null	
+null	null	null	null	 Kennedy	null	Could we use sand or concrete as batteries?	null	null	null	null	null	Wed. July 17, 2019	null	null	null	null	null	null	null	 2019060 	null	
+null	null	null	null	 Kennedy	null	States move to regulate HFCs	null	null	null	null	null	Thu. July 18, 2019	null	null	null	null	null	null	null	 2019171	null	
+null	null	null	null	 Felton	null	A surprisingly cost-effective zero-energy house	null	null	null	null	null	Fri. July 19, 2019	null	null	null	null	null	null	null	 2019213	null	
+null	null	null	null	 Kennedy	null	Pennsylvania farmer puts his pigs to work	null	null	null	null	null	Mon. July 22, 2019	null	null	null	null	null	null	null	 2019078	null	
+null	null	null	null	 Simmons	null	Nonprofit builds an army of climate lobbyists	null	null	null	null	null	Tue. July 23, 2019	null	null	null	null	null	null	null	 2019182	null	
+null	null	null	null	 Kennedy	null	Heat waves are a threat to public health	null	null	null	null	null	Wed. July 24, 2019	null	null	null	null	null	null	null	2019133	null	
+null	null	null	null	 Hopman	null	Son of coal country now manages wind farms	null	null	null	null	null	Thu. July 25, 2019	null	null	null	null	null	null	null	 2019197	null	
+null	null	null	null	 Kennedy	null	Polluted neighborhood turns farm into a green space	null	null	null	null	null	Fri. July 26, 2019	null	null	null	null	null	null	null	 2019148	null	
+null	null	null	null	 Kennedy	null	Farming a forest — and helping the climate	null	null	null	null	null	Mon. July 29, 2019	null	null	null	null	null	null	null	 2019075	null	
+null	null	null	null	 Simmons	null	Miami Beach is trying to save its historic buildings	null	null	null	null	null	Tue. July 30, 2019	null	null	null	null	null	null	null	 2019187	null	
+null	null	null	null	 Manuzak	null	National Aquarium teaches climate science to visitors	null	null	null	null	null	Wed. July 31, 2019	null	null	null	null	null	null	null	 2019180	null	
+null	null	null	null	 Kennedy	null	Why small homes can be appealing	null	null	null	null	null	Thu. Aug. 1, 2019	null	null	null	null	null	null	null	 2019214	null	
+null	null	null	null	 Kennedy	null	How ‘resilience hubs’ could protect communities	null	null	null	null	null	Fri. Aug. 2, 2019	null	null	null	null	null	null	null	 2019166	null	
+null	null	null	null	 Kennedy	null	Conservative says climate should be a priority	null	null	null	null	null	Mon. Aug. 5, 2019	null	null	null	null	null	null	null	 2019202	null	
+null	null	null	null	 Manuzak	null	Critics challenge insurance companies	null	null	null	null	null	Tue. Aug. 6, 2019	null	null	null	null	null	null	null	 2019121	null	
+null	null	null	null	 Felton	null	Energy efficiency can help nonprofits serve more people	null	null	null	null	null	Wed. Aug. 7, 2019	null	null	null	null	null	null	null	 2019137	null	
+null	null	null	null	 Hopman	null	Hurricane clean-up can be hazardous to your health	null	null	null	null	null	Thu. Aug. 8, 2019	null	null	null	null	null	null	null	 2019135	null	
+null	null	null	null	 Hopman	null	How protecting a Pennsylvania stream makes the area more resilient	null	null	null	null	null	Fri. Aug. 9, 2019	null	null	null	null	null	null	null	 2019092b	null	

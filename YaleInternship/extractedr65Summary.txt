@@ -1,0 +1,21 @@
+Carto ID			Geom			Link			Originator			fid			URL			Title			SubTitle			Location			Detail			Lat			Long			Air Date			audio			Country			State			City			County			Street			Zip			Script ID			File Id			
+null	null	null	null	null	null	null	 People and animals — like Rwanda’s mountain gorillas — are under increasing pressure as the climate changes.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190715	
+null	null	null	null	null	null	null	 ‘Caring for God's creation is one of the most important mandates that he gave us as his children.’	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190716	
+null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190717	
+null	null	null	null	null	null	null	 The heat-trapping gases are used in refrigerators and air conditioners	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190718	
+null	null	null	null	null	null	null	 The Connecticut bungalow shows that climate-friendly construction doesn’t require a bigger budget.  	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190719	
+null	null	null	null	null	null	null	 His inventions also cut carbon pollution.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190722	
+null	null	null	null	null	null	null	 Citizens’ Climate Lobby is teaching volunteers how to influence politicians	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190723	
+null	null	null	null	null	null	null	 Low-income people, who often lack AC, may suffer the most.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190724	
+null	null	null	null	null	null	null	 Lee Van Horn’s father worked as an underground coal miner.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190725	
+null	null	null	null	null	null	null	 Now it’s a refuge for birds — and people, too. 	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190726	
+null	null	null	null	null	null	null	 Lincoln Smith’s forested designs provide food, shade, and carbon storage.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190729	
+null	null	null	null	null	null	null	 Some buildings may need to be elevated — and that could get expensive.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190730	
+null	null	null	null	null	null	null	 ‘We’ve made the decision at the National Aquarium to be bold in our messaging.’	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190731	
+null	null	null	null	null	null	null	 If you share amenities with your neighbors, you can live well at a lower cost.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190801	
+null	null	null	null	null	null	null	 The rest of the year, the spaces could serve communities in other ways	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190802	
+null	null	null	null	null	null	null	 He says it’s essential to protect future generations	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190805	
+null	null	null	null	null	null	null	 The industry has invested hundreds of billions of dollars in fossil fuel companies.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190806	
+null	null	null	null	null	null	null	 Efficient light bulbs will enable a medical facility for the homeless to save $100,000.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190807	
+null	null	null	null	null	null	null	 But people are learning to stay safe through a program funded by the National Institute of Environmental Health Sciences.	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190808	
+null	null	null	null	null	null	null	 Protecting a Pennsylvania stream improves resiliency	null	null	null	null	null	null	null	null	null	null	null	null	null	CX190809	

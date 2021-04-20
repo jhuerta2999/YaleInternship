@@ -1,0 +1,29 @@
+		Steps to Use Program to extract data
+		    From Summaries and Scripts
+
+1) Downlaod the files
+2) Save downloaded files as text files (.txt)
+3) Move files into the same folder that contains the code
+4) Type program that corresponds with the file
+	-ReadSubTitles --> Summary Files
+	-ReadScripts ----> Scripts
+5) Type in the program and the file that will be entered
+	--> java ReadScripts r65Scripts.txt
+	--> java ReadSubTitles r65Summaries.txt
+   seperated by a space
+6) Hit Enter
+7) New Files should now be in the same folder
+8) Copy info from new files and paste them onto the google sheet
+	*Because of the format changes on the documents some data may be missing
+	 it is best to give it a quick look to make sure infromation is correct
+
+	 		Steps to Use Program to extract 
+			 		   FB Post ID
+
+1) Copy and paste ad link data from master sheet onto a txt file
+2) Move that txt file into the same folder that contains the ExtrackFbPost files.
+3) Type the program with the txt file
+	--> java ExtrackFbPost <fileName>.txt
+4) Hit enter to run the program
+5) New text file will be created in the same folder with the extracted post id
+6) Copy and paste data with the data sheet 
